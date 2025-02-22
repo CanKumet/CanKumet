@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fahri Can Kümet</h1>
 <h3 align="center">A passionate computer engineer from Turkey</h3>
 
-- 🔭 I’m currently working on [Chat App Project](https://github.com/CanKumet/ChatApp)
 
 - 📫 How to reach me **cankumet@gmail.com**
 
