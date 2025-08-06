@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fahri Can Kümet</h1>
-<h3 align="center">A passionate computer engineer from Turkey</h3>
+<h3 align="center">Data Enginner | LLM</h3>
 
 - 📫 How to reach me **cankumet@gmail.com**
 
