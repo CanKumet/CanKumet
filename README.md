@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fahri Can Kümet</h1>
-[<h3 align="center">Data Enginner | LLM</h3>](https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&size=24&center=true&vCenter=true&width=600&lines=Data+Engineer;LLM+|+AI;)
+<h3 align="center">Data Enginner | LLM</h3>
 
 - 📫 How to reach me **cankumet@gmail.com**
 
